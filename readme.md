@@ -29,12 +29,6 @@
 
 ---
 
-## 🌐 Try It Live
-
-> 🔗 [PromptSniffer on Hugging Face](https://huggingface.co/spaces/itsmemauli/PromptSniffer)
-
----
-
 ## 📚 Skills Gained
 
 - Prompt structure evaluation using **NLP libraries**  
