@@ -1,7 +1,7 @@
 <h1 align="center">🔍 PromptSniffer</h1>
 <p align="center">
   <em>Dissect your prompts. Understand their tone. Master the craft of AI prompting.</em><br>
-  <strong>spaCy • TextBlob • Gradio</strong>
+  <strong>spaCy • Gradio</strong>
 </p>
 
 ---
