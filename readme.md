@@ -25,7 +25,6 @@
 ## 💻 Tech Stack
 
 - `spaCy` – Dependency & token analysis  
-- `TextBlob` – Sentiment scoring  
 - `Gradio` – UI layer for interactivity  
 
 ---
