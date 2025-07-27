@@ -45,7 +45,7 @@
 
 ## 📸 Interface Snapshot
 
-![PromptSniffer UI]()
+![PromptSniffer UI](https://github.com/itsmemauliii/PromptSniffer/blob/main/PromptSniffer%20UI.png)
 
 ---
 
